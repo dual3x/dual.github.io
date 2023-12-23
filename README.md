@@ -1,3 +1,3 @@
-# dual3x.github.io
+# dual.github.io
 
 ..work in progress..
